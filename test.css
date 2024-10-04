@@ -1,0 +1,43 @@
+#div1{
+    background-color:#0a0b24;
+}
+#span1{
+    color: #709838;
+}
+#span2{
+    color: #709838;
+}
+#h11{
+    color: #f6d651;
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    color: white;
+}
+#p2{
+    text-align: center;
+}
+#button1{
+    text-align: center;
+    margin-left: 600px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+#img1{
+    border: 3px yellow solid;
+    height: 510px;
+    width: 19%;
+}
+#img2{
+    border: 3px yellow solid;
+    height: 510px;
+    width: 19%;
+}
+#input1{
+    width: 1495px;
+}
+table{
+    color: white;
+}
